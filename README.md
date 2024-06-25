@@ -1,2 +1,2 @@
-# website-personal-sesi-1.
+# website-personal-sesi-1
 web
